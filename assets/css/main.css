@@ -3304,7 +3304,6 @@
 
 	#cta {
 		background: #e89980;
-		color: #f9e6df;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
 	}
@@ -3324,8 +3323,8 @@
 		#cta input[type="button"],
 		#cta .button {
 			box-shadow: none;
-			background: #fff;
-			color: #e89980;
+			background: #e89980;
+			color: #fff;
 		}
 
 		#cta input[type="text"],
